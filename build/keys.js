@@ -2,21 +2,21 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = {
     database: {
-        host: '147.139.133.123',
+        host: '192.168.1.160',
         user: 'root',
-        password: 'HSG@cloud.ecs2019',
-        database: 'hsgmoto_hmpost',
+        password: 'Katsuragi R',
+        database: 'db_katsuragir',
     },
     local: {
         host: '192.168.1.101',
         user: 'retail',
-        password: 'admin123',
-        database: 'htwarehouse'
+        password: 'Ridhliver',
+        database: 'db_ridhliver'
     },
     retailht: {
         host: '192.168.1.101',
         user: 'retail',
-        password: 'admin123',
+        password: 'Ridhliver',
         database: 'retail_ht'
     }
 };
