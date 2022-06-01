@@ -40,7 +40,7 @@
     "nodemailer-handlebars": "^1.0.1",
     "promise-mysql": "^3.3.2",
     "pug": "^2.0.4",
-    "sharp": "^0.23.3"
+    "sharp": "^0.30.5"
   },
   "devDependencies": {
     "@types/cors": "^2.8.5",
